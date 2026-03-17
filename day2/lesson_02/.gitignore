@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+
+# Virtualenvs
+.venv/
+venv/
+ENV/
+.env/
+.env.*
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+.python_history
+
+# Tests / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Generated artifacts
+*.npy
+*.log
+
